@@ -1,9 +1,5 @@
 
-
-<div style="margin: 20px 0; width: 100%; height: 200px; background-image: url(https://cdn.pixabay.com/photo/2021/02/18/02/27/wolf-6025878_960_720.png); background-repeat: no-repeat; background-position: bottom; background-size: cover">
-    <p>prueba</p>
-</div>
-<img src="https://cdn.pixabay.com/photo/2021/02/18/02/27/wolf-6025878_960_720.png" alt="header image">
+<img style="display: block; margin: 0 auto" src="https://cdn.pixabay.com/photo/2017/07/03/23/31/skyline-2469391_960_720.png" alt="header image">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertogarel&show_icons=true&theme=tokyonight&include_all_commits=true)
 
