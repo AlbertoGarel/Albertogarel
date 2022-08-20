@@ -1,11 +1,14 @@
 ![MasterHead](https://github.com/AlbertoGarel/Albertogarel/blob/main/banner.png)
 
-<p align="left" style="float: right; background-color: whitesmoke; display: inline; padding: 10px 5px; border-radius: 5px">
+![](https://api.visitorbadge.io/api/VisitorHit?user=albertogarel&repo=github-visitors-badge&countColor=%237B1E7A)
+
+<p align="left" style="background-color: whitesmoke; display: inline; padding: 10px 5px; border-radius: 5px">
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40"/></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/1password.svg" alt="" height="30" width="40" /></a>
 </p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=albertogarel&theme=blue-green&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=albertogarel)
 
