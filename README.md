@@ -1,6 +1,6 @@
 
 
-<div style="margin: 20px 0; display: flex; width: 100%; height: 150px; background: url(https://cdn.pixabay.com/photo/2020/07/06/01/33/forest-5375005_960_720.jpg) center center no-repeat; background-size: cover; justify-content: center; align-items: center">
+<div style="margin: 20px 0; display: flex; width: 100%; height: 150px; background: url(https://cdn.pixabay.com/photo/2020/07/06/01/33/forest-5375005_960_720.jpg) no-repeat; background-size: cover; justify-content: center; align-items: center">
     <p>prueba</p>
 </div>
 
