@@ -1,6 +1,6 @@
 
 
-<div style="margin: 20px 0; width: 100%; height: 200px; background-image: url(./paisaje.svg); background-repeat: no-repeat; background-position: bottom; background-size: cover">
+<div style="margin: 20px 0; width: 100%; height: 200px; background-image: url(https://cdn.pixabay.com/photo/2021/02/18/02/27/wolf-6025878_960_720.png); background-repeat: no-repeat; background-position: bottom; background-size: cover">
     <p>prueba</p>
 </div>
 
