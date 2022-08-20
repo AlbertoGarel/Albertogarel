@@ -1,4 +1,13 @@
-[![MasterHead](https://github.com/AlbertoGarel/Albertogarel/blob/main/banner.png)](https://github.com/AlbertoGarel/Albertogarel/blob/main/banner.png)
+![MasterHead](https://github.com/AlbertoGarel/Albertogarel/blob/main/banner.png)
+
+<p align="left" style="float: right; background-color: whitesmoke; display: inline; padding: 10px 5px; border-radius: 5px">
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40"/></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=albertogarel)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertogarel&show_icons=true&theme=tokyonight&include_all_commits=true)
 
@@ -6,36 +15,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=albertogarel&theme=onestar)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40"/></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
 
-<a href="https://github.com/charly3pins">
-	<img align="center" width="49%" src="./header.svg" />
-</a>
-<br/>
-<a href="https://github.com/charly3pins">
-	<img align="center" width="49%" src="./repositories.svg" />
-</a>
-<a href="https://github.com/charly3pins">
-	<img align="center" width="49%" src="./acti_comm.svg" />
-</a>
-<a href="https://github.com/charly3pins">
-	<img align="center" width="49%" src="./iso_calender.svg" />
-</a>
-<a href="https://github.com/charly3pins">
-	<img align="center" width="49%" src="./issue_pr_lang.svg" />
-</a>
-<a href="https://github.com/charly3pins">
-	<img align="center" width="49%" src="./github-habits.svg" />
-</a>
-<a href="https://github.com/charly3pins">
-	<img align="center" width="49%" src="./achievements.svg" />
-</a>
 
 ## 👋 Keep in touch
 
