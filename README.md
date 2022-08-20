@@ -1,5 +1,5 @@
 
-<img style="display: block; margin: 0 auto" src="https://cdn.pixabay.com/photo/2017/07/03/23/31/skyline-2469391_960_720.png" alt="header image">
+<img style="display: block; margin: 0 auto" src="https://cdn.pixabay.com/photo/2015/04/02/08/11/universe-703517_960_720.jpg" alt="header image">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertogarel&show_icons=true&theme=tokyonight&include_all_commits=true)
 
