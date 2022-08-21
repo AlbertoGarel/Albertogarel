@@ -44,6 +44,7 @@
 
 <h2 align="center">Statistics</h2>
 - - - - 
+
 <p align="center">
     <span align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=albertogarel&theme=tokyonight" alt=""/>
@@ -57,14 +58,15 @@
 
 <h2 align="center">Portfolio</h2>
 - - - -
-<a href="https://albertogarel.com/">
+
+<a align="center" href="https://albertogarel.com/">
     <img align="center" src="./portfolio_tag.png" alt="prueba"/>
 </a>
 
 
 
 
-## 👋 Keep in touch
+## Keep in touch 👋
 - - - - 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/albertogarel)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/albertogarel/)
