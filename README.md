@@ -56,12 +56,10 @@
 </p>
 
 <h2 align="center">Portfolio</h2>
-- - - - 
-<div>
-<img width="20%" src="https://albertogarel.com/assets/img/cubo_tecnologico.png" alt="portfolio"/>
-</div>
-
-<img src="./prueba.png" alt="prueba"/>
+- - - -
+<a href="https://albertogarel.com/">
+    <img align="center" src="./portfolio_tag.png" alt="prueba"/>
+</a>
 
 
 
