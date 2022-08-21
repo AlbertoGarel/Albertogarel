@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
+<br>
 
 <h2 align="center">Current project 🚧</h2>
 
@@ -35,6 +36,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albertogarel&repo=ReactNative-Print_Production_APP&theme=tokyonight" />
 
 </p>
+<br>
 
 <h2 align="center">Statistics 📈</h2>
 
@@ -56,6 +58,7 @@
         <img align="center" src="./portfolio_tag.png" alt="Portfolio"/>
     </a>
 </p>
+<br>
 
 <h2 align="center">Keep in touch 👋</h2>
 
@@ -70,6 +73,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
     </a>
 </p>
+<br>
 
 <hr>
 
