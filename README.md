@@ -48,18 +48,7 @@
 <br>
 ![trophy](https://github-profile-trophy.vercel.app/?username=albertogarel&theme=onestar)
 
-## 👋 Keep in touch
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=charly3pins)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlesfuste/)
-
-## 👨‍💻 Blog![Portfolio](https://albertogarel.com/assets/img/cubo_tecnologico.png)
 
 ![](https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
