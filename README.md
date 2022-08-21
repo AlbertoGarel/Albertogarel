@@ -50,6 +50,7 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=albertogarel&theme=onestar" alt="Statistics"/>
 </p>
+<br>
 
 <h2 align="center">Portfolio 💼</h2>
 
