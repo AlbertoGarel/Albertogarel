@@ -5,7 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/albertogarel?color=green)
 
 <h2 align="center">Technology Stack</h2>
-
+- - - - 
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-<h2 align="left">🚧 Current project:</h2>
+<h2 align="center">Current project</h2>
 - - - - 
 <p align="center">
     <span align="center">
@@ -33,8 +33,16 @@
     <br>
     <br>
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albertogarel&repo=ReactNative-Print_Production_APP&theme=tokyonight" />
+    &nbsp
+
+```plain
+    Es un proyecto donde se calculan producciones reales en imprenta 
+    utilizando bobinas de papel y demas cosa, esto es para ellenar,
+     como puedes compronbar.
+```
 </p>
 
+<h2 align="center">Statistics</h2>
 - - - - 
 <p align="center">
     <span align="center">
@@ -43,10 +51,26 @@
     </span>
 </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=albertogarel&theme=tokyonight)
-![Albertogarel's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertogarel&show_icons=true&theme=tokyonight&include_all_commits=true)
-<br>
-![trophy](https://github-profile-trophy.vercel.app/?username=albertogarel&theme=onestar)
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=albertogarel&theme=onestar" alt=""/>
+</p>
+
+<h2 align="center">Portfolio</h2>
+- - - - 
+<div>
+<img width="20%" src="https://albertogarel.com/assets/img/cubo_tecnologico.png" alt="portfolio"/>
+</div>
+
+<img src="./prueba.png" alt="prueba"/>
+
+
+
+
+## 👋 Keep in touch
+- - - - 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/albertogarel)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/albertogarel/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albertogarel)
 
 
 
