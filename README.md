@@ -4,21 +4,21 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=albertogarel)
 ![GitHub followers](https://img.shields.io/github/followers/albertogarel?color=green)
 - - - -
-<div  style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: flex-start">
-    <div>
+<div width="100%">
+    <div width="49%" align="left">
         <h2>🚀 Most used languages</h2>
         <a href="https://github.com/albertogarel/github-readme-stats">
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertogarel&theme=tokyonight" />
         </a>
     </div>
-    <div style="display: flex; flex-direction: column; justify-content: space-around; align-items: center">
-        <div>
+    <div width="49%" align="right">
+        <div align="center">
             <h2>🏁 Last project:</h2>
             <a href="https://github.com/albertogarel/github-readme-stats">
                 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albertogarel&repo=ReactNative-Print_Production_APP&theme=tokyonight" />
             </a>
         </div>
-        <div>
+        <div align="center">
             <h2>🚧 actual project:</h2>
             <a href="https://github.com/albertogarel/github-readme-stats">
                 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albertogarel&repo=ReactNative-Print_Production_APP&theme=tokyonight" />
