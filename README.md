@@ -58,7 +58,7 @@
 
 <h2 align="center">Portfolio</h2>
 - - - -
-
+<br>
 <a align="center" href="https://albertogarel.com/">
     <img align="center" src="./portfolio_tag.png" alt="prueba"/>
 </a>
