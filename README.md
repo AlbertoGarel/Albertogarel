@@ -5,7 +5,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/albertogarel?color=green)
 
 <h2 align="center">Technology Stack</h2>
-<hr>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -24,7 +23,6 @@
 </p>
 
 <h2 align="center">Current project</h2>
-<hr>
 
 <p align="center">
     <span align="center">
@@ -45,7 +43,6 @@
 </p>
 
 <h2 align="center">Statistics</h2>
-<hr>
 
 <p align="center">
     <span align="center">
@@ -59,7 +56,6 @@
 </p>
 
 <h2 align="center">Portfolio</h2>
-<hr>
 
 <br>
 <a align="center" href="https://albertogarel.com/">
