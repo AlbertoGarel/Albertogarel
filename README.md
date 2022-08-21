@@ -3,23 +3,49 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=albertogarel)
 ![GitHub followers](https://img.shields.io/github/followers/albertogarel?color=green)
-- - - -
-<code>
-            <h2>🏁 Last project:</h2>
-            <a href="https://github.com/albertogarel/github-readme-stats">
-                <img width="60%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albertogarel&repo=ReactNative-Print_Production_APP&theme=tokyonight" />
-            </a>
-            <h2>🚧 actual project:</h2>
-            <a href="https://github.com/albertogarel/github-readme-stats">
-                <img width="60%"  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albertogarel&repo=ReactNative-Print_Production_APP&theme=tokyonight" />
-            </a>
-</code>
+
+<h2 align="center">Technology Stack</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Php-black?style=flat-square&logo=PHP"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=React"/>
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-Sqlite-black?style=flat-square&logo=Sqlite"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+</p>
+
+<h2 align="left">🚧 Current project:</h2>
+- - - - 
+<p align="center">
+    <span align="center">
+        <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+        <img src="https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=React"/>
+        <img src="https://img.shields.io/badge/-Sqlite-black?style=flat-square&logo=Sqlite"/>
+    </span>
+    <br>
+    <br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albertogarel&repo=ReactNative-Print_Production_APP&theme=tokyonight" />
+</p>
 
 - - - - 
+<p align="center">
+    <span align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=albertogarel&theme=tokyonight" alt=""/>
+        <img src="https://github-readme-stats.vercel.app/api?username=albertogarel&show_icons=true&theme=tokyonight&include_all_commits=true" alt=""/>
+    </span>
+</p>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=albertogarel&theme=tokyonight)
 ![Albertogarel's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertogarel&show_icons=true&theme=tokyonight&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertogarel&theme=tokyonight)
+<br>
 ![trophy](https://github-profile-trophy.vercel.app/?username=albertogarel&theme=onestar)
 
 ## 👋 Keep in touch
