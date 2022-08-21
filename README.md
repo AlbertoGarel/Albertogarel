@@ -1,26 +1,16 @@
+[![visitors badge](https://api.visitorbadge.io/api/VisitorHit?user=albertogarel&repo=github-visitors-badge&countColor=%237B1E7A)](https://albertogarel.com)
 ![MasterHead](https://github.com/AlbertoGarel/Albertogarel/blob/main/banner.png)
 - - - -
-[![visitors badge](https://api.visitorbadge.io/api/VisitorHit?user=albertogarel&repo=github-visitors-badge&countColor=%237B1E7A)](https://albertogarel.com)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=albertogarel)
+![GitHub followers](https://img.shields.io/github/followers/albertogarel?color=green)
 
-<p align="right" style="background-color: whitesmoke; display: inline; padding: 10px 5px; border-radius: 5px">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40"/></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/1password.svg" alt="" height="30" width="40" /></a>
-</p>
+## 🚧 Last project:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=albertogarel&repo=ReactNative-Print_Production_APP)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=albertogarel&theme=blue-green&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=albertogarel)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=albertogarel&theme=tokyonight)
 ![Albertogarel's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertogarel&show_icons=true&theme=tokyonight&include_all_commits=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertogarel&theme=tokyonight)
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=albertogarel&theme=onestar)
-
-
 
 ## 👋 Keep in touch
 
@@ -31,19 +21,29 @@
 
 ## 👨‍💻 Blog
 
-Besides writing code, I like to write articles about things that I find interesting. You can read the articles at **[Albertogarel](https://albertogarel.com)**
+Besides writing code, I like to write articles about things that I find interesting. You can read the articles
+at **[Albertogarel](https://albertogarel.com)**
 
 Latest posts:
-- **[Go project layout with Clean architectures and DDD](https://charly3pins.dev/blog/go-project-layout-with-clean-architecures-and-ddd/)** (8 months ago)
-- **[Learn how to use the embed package in Go by building a web page easily](https://charly3pins.dev/blog/learn-how-to-use-the-embed-package-in-go-by-building-a-web-page-easily/)** (12 months ago)
-- **[What I learned defining the Selection Process for a Software Engineer in the startup where I work](https://charly3pins.dev/blog/what-i-learned-defining-the-selection-process-for-a-software-engineer-in-the-startup-where-i-work/)** (15 months ago)
-- **[Increase your productivity with Notion](https://charly3pins.dev/blog/increase-your-productivity-with-notion/)** (16 months ago)
-- **[The Pomodoro Technique](https://charly3pins.dev/blog/the-pomodoro-technique/)** (16 months ago)
-- **[Automate Your GitHub Profile README with Go and GitHub Actions](https://charly3pins.dev/blog/automate-your-github-profile-readme-with-go-and-github-actions/)** (17 months ago)
-- **[My productivity setup for VS Code](https://charly3pins.dev/blog/my-productivity-setup-for-vs-code/)** (17 months ago)
-- **[Build an awesome GitHub's profile README](https://charly3pins.dev/blog/build-an-awesome-github-profile-readme/)** (18 months ago)
-- **[How to have a multilingual site in Hugo](https://charly3pins.dev/blog/how-to-have-a-multilingual-site-in-hugo/)** (18 months ago)
-- **[How to add Google Analytics to your Hugo site](https://charly3pins.dev/blog/how-to-add-google-analytics-to-your-hugo-site/)** (21 months ago)
 
+- **[Go project layout with Clean architectures and DDD](https://charly3pins.dev/blog/go-project-layout-with-clean-architecures-and-ddd/)** (
+  8 months ago)
+- **[Learn how to use the embed package in Go by building a web page easily](https://charly3pins.dev/blog/learn-how-to-use-the-embed-package-in-go-by-building-a-web-page-easily/)** (
+  12 months ago)
+- **[What I learned defining the Selection Process for a Software Engineer in the startup where I work](https://charly3pins.dev/blog/what-i-learned-defining-the-selection-process-for-a-software-engineer-in-the-startup-where-i-work/)** (
+  15 months ago)
+- **[Increase your productivity with Notion](https://charly3pins.dev/blog/increase-your-productivity-with-notion/)** (16
+  months ago)
+- **[The Pomodoro Technique](https://charly3pins.dev/blog/the-pomodoro-technique/)** (16 months ago)
+- **[Automate Your GitHub Profile README with Go and GitHub Actions](https://charly3pins.dev/blog/automate-your-github-profile-readme-with-go-and-github-actions/)** (
+  17 months ago)
+- **[My productivity setup for VS Code](https://charly3pins.dev/blog/my-productivity-setup-for-vs-code/)** (17 months
+  ago)
+- **[Build an awesome GitHub's profile README](https://charly3pins.dev/blog/build-an-awesome-github-profile-readme/)** (
+  18 months ago)
+- **[How to have a multilingual site in Hugo](https://charly3pins.dev/blog/how-to-have-a-multilingual-site-in-hugo/)** (
+  18 months ago)
+- **[How to add Google Analytics to your Hugo site](https://charly3pins.dev/blog/how-to-add-google-analytics-to-your-hugo-site/)** (
+  21 months ago)
 
 ![](https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif)
