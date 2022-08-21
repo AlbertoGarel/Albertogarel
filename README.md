@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-<h2 align="center">Current project</h2>
+<h2 align="center">Current project 🚧</h2>
 
 <p align="center">
     <span align="center">
@@ -33,45 +33,49 @@
     <br>
     <br>
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albertogarel&repo=ReactNative-Print_Production_APP&theme=tokyonight" />
-    &nbsp
 
-```plain
-    Es un proyecto donde se calculan producciones reales en imprenta 
-    utilizando bobinas de papel y demas cosa, esto es para ellenar,
-     como puedes compronbar.
-```
 </p>
 
-<h2 align="center">Statistics</h2>
+<h2 align="center">Statistics 📈</h2>
 
 <p align="center">
     <span align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=albertogarel&theme=tokyonight" alt=""/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=albertogarel&theme=tokyonight" alt="Statistics"/>
         <img src="https://github-readme-stats.vercel.app/api?username=albertogarel&show_icons=true&theme=tokyonight&include_all_commits=true" alt=""/>
     </span>
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=albertogarel&theme=onestar" alt=""/>
+    <img src="https://github-profile-trophy.vercel.app/?username=albertogarel&theme=onestar" alt="Statistics"/>
 </p>
 
-<h2 align="center">Portfolio</h2>
+<h2 align="center">Portfolio 💼</h2>
 
-<br>
-<a align="center" href="https://albertogarel.com/">
-    <img align="center" src="./portfolio_tag.png" alt="prueba"/>
-</a>
+<p align="center">
+    <a align="center" href="https://albertogarel.com/">
+        <img align="center" src="./portfolio_tag.png" alt="Portfolio"/>
+    </a>
+</p>
 
+<h2 align="center">Keep in touch 👋</h2>
 
+<p align="center">
+    <a href="https://twitter.com/albertogarel">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+    </a>
+    <a href="https://www.instagram.com/albertogarel/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="https://www.linkedin.com/in/albertogarel">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+    </a>
+</p>
 
+<hr>
 
-## Keep in touch 👋
-- - - - 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/albertogarel)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/albertogarel/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albertogarel)
+<p align="center">
+    <img src="https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif" alt="gif"/>
+</p>
 
-
-
-![](https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif)
+<hr>
 
