@@ -5,7 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/albertogarel?color=green)
 
 ## 🚧 Last project:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=albertogarel&repo=ReactNative-Print_Production_APP)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=albertogarel&repo=ReactNative-Print_Production_APP)](https://github.com/AlbertoGarel/ReactNative-Print_Production_APP)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=albertogarel&theme=tokyonight)
 ![Albertogarel's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertogarel&show_icons=true&theme=tokyonight&include_all_commits=true)
