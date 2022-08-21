@@ -4,26 +4,33 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=albertogarel)
 ![GitHub followers](https://img.shields.io/github/followers/albertogarel?color=green)
 - - - -
-<div  style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center">
-    <div>
-        <h2>🏁 Last project:</h2>
+<section  style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center">
+    <article>
+        <h2>🚀 Most used languages</h2>
         <a href="https://github.com/albertogarel/github-readme-stats">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albertogarel&repo=ReactNative-Print_Production_APP&theme=tokyonight" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertogarel&theme=tokyonight" />
         </a>
-    </div>
-    <div>
-        <h2>🚧 actual project:</h2>
-        <a href="https://github.com/albertogarel/github-readme-stats">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albertogarel&repo=ReactNative-Print_Production_APP&theme=tokyonight" />
-        </a>
-    </div>
-</div>
+    </article>
+    <article style="flex-wrap: wrap; justify-content: space-around; align-items: center">
+        <div>
+            <h2>🏁 Last project:</h2>
+            <a href="https://github.com/albertogarel/github-readme-stats">
+                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albertogarel&repo=ReactNative-Print_Production_APP&theme=tokyonight" />
+            </a>
+        </div>
+        <div>
+            <h2>🚧 actual project:</h2>
+            <a href="https://github.com/albertogarel/github-readme-stats">
+                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albertogarel&repo=ReactNative-Print_Production_APP&theme=tokyonight" />
+            </a>
+        </div>
+    </article>
+</section>
 
 - - - - 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=albertogarel&theme=tokyonight)
 ![Albertogarel's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertogarel&show_icons=true&theme=tokyonight&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertogarel&theme=tokyonight)
 ![trophy](https://github-profile-trophy.vercel.app/?username=albertogarel&theme=onestar)
 
 ## 👋 Keep in touch
