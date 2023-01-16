@@ -44,12 +44,12 @@
 <p align="center">
     <span align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=albertogarel&theme=tokyonight" alt="Statistics"/>
-        <img src="https://github-readme-stats.vercel.app/api?username=albertogarel&show_icons=true&theme=tokyonight&include_all_commits=true" alt=""/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=albertogarel&show_icons=true&theme=tokyonight&include_all_commits=true" alt=""/>
     </span>
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy-sigma-five.vercel.app/?username=albertogarel&theme=onestar" alt="Statistics"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=albertogarel&theme=onestar" alt="Statistics"/>
 </p>
 <br>
 
