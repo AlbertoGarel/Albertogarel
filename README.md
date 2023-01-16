@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=albertogarel&theme=onestar" alt="Statistics"/>
+    <img src="https://github-profile-trophy-sigma-five.vercel.app/?username=albertogarel&theme=onestar" alt="Statistics"/>
 </p>
 <br>
 
