@@ -34,7 +34,7 @@
     <br>
     <br>
     <a href="https://github.com/AlbertoGarel/ReactNative-Print_Production_APP">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albertogarel&repo=ReactNative-Print_Production_APP&theme=tokyonight" />
+        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=albertogarel&repo=ReactNative-Print_Production_APP&theme=tokyonight" />
     </a>
 </p>
 <br>
