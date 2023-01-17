@@ -39,11 +39,6 @@
 </p>
 <br>
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=albertogarel&theme=onestar" alt="Statistics"/>
-</p>
-<br>
-
 <h2 align="center">Last project 🚀</h2>
 
 <p align="center">
@@ -57,11 +52,6 @@
     <a href="https://github.com/AlbertoGarel/ReactNative-Print_Production_APP">
         <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=albertogarel&repo=ReactNative-Print_Production_APP&theme=tokyonight" />
     </a>
-</p>
-<br>
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=albertogarel&theme=onestar" alt="Statistics"/>
 </p>
 <br>
 
