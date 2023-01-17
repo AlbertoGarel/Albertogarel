@@ -33,8 +33,8 @@
     </span>
     <br>
     <br>
-    <a href="https://github.com/AlbertoGarel/ReactNative-BarcodeReader">
-        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=albertogarel&repo=ReactNative-BarcodeReader&theme=tokyonight" />
+    <a href="https://github.com/AlbertoGarel/Qr-edibly-reader">
+        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=albertogarel&repo=Qr-edibly-reader&theme=tokyonight" />
     </a>
 </p>
 <br>
