@@ -48,7 +48,7 @@
     <br>
     <br>
     <a href="https://github.com/AlbertoGarel/Qr-edibly-reader">
-        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=albertogarel&repo=Qr-edibly-reader&theme=tokyonight" />
+        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=albertogarel&repo=React.js-Reader-Translator&theme=tokyonight" />
     </a>
 </p>
 <br>
