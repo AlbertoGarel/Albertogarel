@@ -23,7 +23,7 @@
 </p>
 <br>
 
-<h2 align="center">Current project 🚧</h2>
+<h2 align="center">Current projects 🚧</h2>
 
 <p align="center">
     <span align="center">
@@ -53,7 +53,7 @@
 </p>
 <br>
 
-<h2 align="center">Lasts project 🚀</h2>
+<h2 align="center">Last projects 🚀</h2>
 
 <p align="center">
     <span align="center">
@@ -64,7 +64,7 @@
     <br>
     <br>
     <a href="https://github.com/AlbertoGarel/ReactNative-Print_Production_APP">
-        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=albertogarel&repo=ReactNative-Print_Production_APP&theme=tokyonight" />
+        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=albertogarel&repo=TheMealDb-React-with-TypeScript&theme=tokyonight" />
     </a>
 </p>
 <br>
