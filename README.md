@@ -39,7 +39,35 @@
 </p>
 <br>
 
-<h2 align="center">Last project 🚀</h2>
+<p align="center">
+    <span align="center">
+        <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+        <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=React"/>
+        <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript"/>
+    </span>
+    <br>
+    <br>
+    <a href="https://github.com/AlbertoGarel/Qr-edibly-reader">
+        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=albertogarel&repo=Qr-edibly-reader&theme=tokyonight" />
+    </a>
+</p>
+<br>
+
+<h2 align="center">Lasts project 🚀</h2>
+
+<p align="center">
+    <span align="center">
+        <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+        <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=React"/>
+        <img src="https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sqlite"/>
+    </span>
+    <br>
+    <br>
+    <a href="https://github.com/AlbertoGarel/ReactNative-Print_Production_APP">
+        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=albertogarel&repo=ReactNative-Print_Production_APP&theme=tokyonight" />
+    </a>
+</p>
+<br>
 
 <p align="center">
     <span align="center">
