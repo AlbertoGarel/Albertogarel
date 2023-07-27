@@ -44,6 +44,7 @@
         <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
         <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=React"/>
         <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript"/>
+        <img src="https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass"/>
     </span>
     <br>
     <br>
@@ -59,7 +60,8 @@
     <span align="center">
         <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
         <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=React"/>
-        <img src="https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sqlite"/>
+        <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript"/>
+        <img src="https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass"/>
     </span>
     <br>
     <br>
@@ -72,8 +74,10 @@
 <p align="center">
     <span align="center">
         <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-        <img src="https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=React"/>
-        <img src="https://img.shields.io/badge/-Sqlite-black?style=flat-square&logo=Sqlite"/>
+        <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=React"/>
+        <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript"/>
+        <img src="https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass"/>
+        <img src="https://img.shields.io/badge/-Semantic_UI-black?style=flat-square&logo=semanticuireact"/>
     </span>
     <br>
     <br>
