@@ -83,6 +83,20 @@
 </p>
 <br>
 
+<p align="center">
+    <span align="center">
+        <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+        <img src="https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=React"/>
+        <img src="https://img.shields.io/badge/-Sqlite-black?style=flat-square&logo=Sqlite"/>
+    </span>
+    <br>
+    <br>
+    <a href="https://github.com/AlbertoGarel/ReactNative-Print_Production_APP">
+        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=albertogarel&repo=ReactNative-Print_Production_APP&theme=tokyonight" />
+    </a>
+</p>
+<br>
+
 <h2 align="center">Statistics 📈</h2>
 
 <p align="center">
